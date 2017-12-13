@@ -1,0 +1,247 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6126cb1/
+FLANN_INDEX_LSH	tracker_2D.py	/^FLANN_INDEX_LSH = 6$/;"	v
+FLANN_INDEX_LSH	tracker_2D_I_wont_get_lost.py	/^FLANN_INDEX_LSH = 6$/;"	v
+FLANN_INDEX_LSH	tracker_2d_noloss_func.py	/^FLANN_INDEX_LSH = 6$/;"	v
+Initialize	gui.py	/^def Initialize(MainFrame):$/;"	f
+InitiateCamera	tracker_2d_noloss_func.py	/^def InitiateCamera(camNumber):$/;"	f
+LENGTH_SCALE	gui.py	/^LENGTH_SCALE=10$/;"	v
+LENGTH_SCALE	gui_new.py	/^LENGTH_SCALE=10$/;"	v
+LENGTH_SCALE	tracker_2D.py	/^LENGTH_SCALE=10$/;"	v
+LENGTH_SCALE	tracker_2D_I_wont_get_lost.py	/^LENGTH_SCALE=10$/;"	v
+LENGTH_SCALE	tracker_2d_noloss_func.py	/^LENGTH_SCALE=10$/;"	v
+MainFrame	gui_new.py	/^class MainFrame(wx.Frame):$/;"	c
+OnAbout	gui_new.py	/^    def OnAbout(self, event):$/;"	m	class:MainFrame
+OnButton	gui_new.py	/^    def OnButton(self, event):$/;"	m	class:MainFrame
+OnExit	gui_new.py	/^    def OnExit(self, event):$/;"	m	class:MainFrame
+OnLoad	gui_new.py	/^    def OnLoad(self, event):$/;"	m	class:MainFrame
+OnSize	gui_new.py	/^    def OnSize(self, event):$/;"	m	class:MainFrame
+Track	gui.py	/^def Track(MainFrame): $/;"	f
+Yaw_dist	tracker_2D.py	/^                Yaw_dist = -math.atan(rigid[0,1]\/rigid[0,0])$/;"	v
+Yaw_dist_bf	tracker_2D_I_wont_get_lost.py	/^                    Yaw_dist_bf = -math.atan(rigid[0,1]\/rigid[0,0])$/;"	v
+Yaw_dist_bf	tracker_2d_noloss_func.py	/^                    Yaw_dist_bf = -math.atan(rigid[0,1]\/rigid[0,0])$/;"	v
+Yaw_dist_knn	tracker_2D_I_wont_get_lost.py	/^                    Yaw_dist_knn = -math.atan(rigid[0,1]\/rigid[0,0])$/;"	v
+Yaw_dist_knn	tracker_2d_noloss_func.py	/^                    Yaw_dist_knn = -math.atan(rigid[0,1]\/rigid[0,0])$/;"	v
+__init__	gui_new.py	/^    def __init__(self, parent):$/;"	m	class:MainFrame
+app	gui_new.py	/^    app = wx.App(0)$/;"	v
+bf	tracker_2D.py	/^bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=False)$/;"	v
+bf	tracker_2D_I_wont_get_lost.py	/^bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=False)$/;"	v
+bf	tracker_2d_noloss_func.py	/^bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=False)$/;"	v
+bff	tracker_2D.py	/^bff = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)$/;"	v
+bff	tracker_2D_I_wont_get_lost.py	/^bff = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)$/;"	v
+bff	tracker_2d_noloss_func.py	/^bff = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)$/;"	v
+cal	gui.py	/^import calibration as cal$/;"	I
+cal	gui_new.py	/^import calibration as cal$/;"	I
+cal	tracker_2D_I_wont_get_lost.py	/^import calibration as cal$/;"	I
+cal	tracker_2d_noloss_func.py	/^import calibration as cal$/;"	I
+camNum	gui.py	/^camNum = 0;$/;"	v
+camNum	gui_new.py	/^camNum = 0;$/;"	v
+changebfRigid	tracker_2D_I_wont_get_lost.py	/^                    changebfRigid = [(rigid[0,2]*math.cos(Yaw_dist_bf)-rigid[1,2]*math.sin(Yaw_d/;"	v
+changebfRigid	tracker_2d_noloss_func.py	/^                    changebfRigid = [(rigid[0,2]*math.cos(Yaw_dist_bf)-rigid[1,2]*math.sin(Yaw_d/;"	v
+changeknnRigid	tracker_2D_I_wont_get_lost.py	/^                    changeknnRigid = [(rigid[0,2]*math.cos(Yaw_dist_knn)-rigid[1,2]*math.sin(Yaw/;"	v
+changeknnRigid	tracker_2d_noloss_func.py	/^                    changeknnRigid = [(rigid[0,2]*math.cos(Yaw_dist_knn)-rigid[1,2]*math.sin(Yaw/;"	v
+colorframe	tracker_2D.py	/^    colorframe = cv2.cvtColor(gray,cv2.COLOR_GRAY2RGB)$/;"	v
+colorframe	tracker_2D_I_wont_get_lost.py	/^        colorframe = cv2.cvtColor(gray,cv2.COLOR_GRAY2RGB)$/;"	v
+colorframe	tracker_2d_noloss_func.py	/^        colorframe = cv2.cvtColor(gray,cv2.COLOR_GRAY2RGB)$/;"	v
+currposbfRigid	tracker_2D_I_wont_get_lost.py	/^                    currposbfRigid = [currposbfRigid[0]+changebfRigid[0], currposbfRigid[1]+chan/;"	v
+currposbfRigid	tracker_2D_I_wont_get_lost.py	/^    currposbfRigid = [width\/2,height\/2]$/;"	v
+currposbfRigid	tracker_2d_noloss_func.py	/^                    currposbfRigid = [currposbfRigid[0]+changebfRigid[0], currposbfRigid[1]+chan/;"	v
+currposbfRigid	tracker_2d_noloss_func.py	/^    currposbfRigid = [width\/2,height\/2]$/;"	v
+currposknnDis	tracker_2D.py	/^            currposknnDis = [currposknnDis[0]-frame_dis[0]\/LENGTH_SCALE, currposknnDis[1]-frame/;"	v
+currposknnDis	tracker_2D.py	/^    currposknnDis = [width\/2,height\/2]$/;"	v
+currposknnRigid	tracker_2D.py	/^                currposknnRigid = [currposknnRigid[0]+(rigid[0,2]*math.cos(Yaw_dist)-rigid[1,2]*/;"	v
+currposknnRigid	tracker_2D.py	/^    currposknnRigid = [width\/2,height\/2]$/;"	v
+currposknnRigid	tracker_2D_I_wont_get_lost.py	/^                    currposknnRigid = [currposknnRigid[0]+changeknnRigid[0], currposknnRigid[1]+/;"	v
+currposknnRigid	tracker_2D_I_wont_get_lost.py	/^    currposknnRigid = [width\/2,height\/2]$/;"	v
+currposknnRigid	tracker_2d_noloss_func.py	/^                    currposknnRigid = [currposknnRigid[0]+changeknnRigid[0], currposknnRigid[1]+/;"	v
+currposknnRigid	tracker_2d_noloss_func.py	/^    currposknnRigid = [width\/2,height\/2]$/;"	v
+currpossbfDis	tracker_2D.py	/^            currpossbfDis = [currpossbfDis[0]-frame_dis[0]\/LENGTH_SCALE, currpossbfDis[1]-frame/;"	v
+currpossbfDis	tracker_2D.py	/^    currpossbfDis = [width\/2,height\/2]$/;"	v
+currpossbfRigid	tracker_2D.py	/^                currpossbfRigid = [currpossbfRigid[0]+(rigid[0,2]*math.cos(Yaw_dist)-rigid[1,2]*/;"	v
+currpossbfRigid	tracker_2D.py	/^    currpossbfRigid = [width\/2,height\/2]$/;"	v
+draw_matches	draw_matches.py	/^def draw_matches(img1, kp1, img2, kp2, matches, color=None): $/;"	f
+findCamMTX	calibration.py	/^def findCamMTX(pathStr):$/;"	f
+fmps	tracker_2D.py	/^    fmps = int(webcam.get(5)) or 20$/;"	v
+fmps	tracker_2D_I_wont_get_lost.py	/^    fmps = int(webcam.get(5)) or 20$/;"	v
+fmps	tracker_2d_noloss_func.py	/^    fmps = int(webcam.get(5)) or 20$/;"	v
+fourcc	tracker_2D.py	/^    fourcc = cv2.VideoWriter_fourcc(*'DIVX')$/;"	v
+fourcc	tracker_2D_I_wont_get_lost.py	/^    fourcc = cv2.cv2.VideoWriter_fourcc(*'DIVX')$/;"	v
+fourcc	tracker_2d_noloss_func.py	/^    fourcc = cv2.cv2.VideoWriter_fourcc(*'DIVX')$/;"	v
+frame	gui_new.py	/^    frame = MainFrame(None)$/;"	v
+frame	tracker_2D_I_wont_get_lost.py	/^        frame = cal.undistFrame(frame, mtx, dist)    $/;"	v
+frame	tracker_2D_I_wont_get_lost.py	/^        frame = cal.undistFrame(frame, mtx, dist) $/;"	v
+frame	tracker_2D_I_wont_get_lost.py	/^    frame = cal.undistFrame(frame, mtx, dist) $/;"	v
+frame	tracker_2d_noloss_func.py	/^        frame = cal.undistFrame(frame, mtx, dist)    $/;"	v
+frame	tracker_2d_noloss_func.py	/^        frame = cal.undistFrame(frame, mtx, dist) $/;"	v
+frame	tracker_2d_noloss_func.py	/^    frame = cal.undistFrame(frame, mtx, dist) $/;"	v
+frame_count	tracker_2D.py	/^    frame_count = frame_count + 1$/;"	v
+frame_count	tracker_2D.py	/^frame_count = 1$/;"	v
+frame_count	tracker_2D_I_wont_get_lost.py	/^    frame_count = frame_count + 1$/;"	v
+frame_count	tracker_2D_I_wont_get_lost.py	/^frame_count = 1$/;"	v
+frame_count	tracker_2d_noloss_func.py	/^    frame_count = frame_count + 1$/;"	v
+frame_count	tracker_2d_noloss_func.py	/^frame_count = 1$/;"	v
+frame_dis	tracker_2D.py	/^            frame_dis = [sum(i[0] for i in match_dis)\/len(match_dis), sum(i[1] for i in match_d/;"	v
+good_matches	tracker_2D.py	/^        good_matches = []$/;"	v
+good_matches	tracker_2D_I_wont_get_lost.py	/^            good_matches = []$/;"	v
+good_matches	tracker_2d_noloss_func.py	/^            good_matches = []$/;"	v
+gray	tracker_2D.py	/^    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	v
+gray	tracker_2D_I_wont_get_lost.py	/^    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	v
+gray	tracker_2d_noloss_func.py	/^    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	v
+height	tracker_2D.py	/^    height = int(webcam.get(4))$/;"	v
+height	tracker_2D_I_wont_get_lost.py	/^    height = int(webcam.get(4))$/;"	v
+height	tracker_2d_noloss_func.py	/^    height = int(webcam.get(4))$/;"	v
+index_params	tracker_2D.py	/^index_params= dict(algorithm = FLANN_INDEX_LSH,$/;"	v
+index_params	tracker_2D_I_wont_get_lost.py	/^index_params= dict(algorithm = FLANN_INDEX_LSH,$/;"	v
+index_params	tracker_2d_noloss_func.py	/^index_params= dict(algorithm = FLANN_INDEX_LSH,$/;"	v
+key	tracker_2D.py	/^    key = cv2.waitKey(1) & 0xFF$/;"	v
+key	tracker_2D_I_wont_get_lost.py	/^    key = cv2.waitKey(1) & 0xFF$/;"	v
+key	tracker_2d_noloss_func.py	/^    key = cv2.waitKey(1) & 0xFF$/;"	v
+makeMenuBar	gui_new.py	/^    def makeMenuBar(self):$/;"	m	class:MainFrame
+match_dis	tracker_2D.py	/^            match_dis = []$/;"	v
+matchesbf	tracker_2D.py	/^        matchesbf = bf.match(des1,olddes1)$/;"	v
+matchesbf	tracker_2D_I_wont_get_lost.py	/^            matchesbf = bff.knnMatch(des1,olddes1,k=1)$/;"	v
+matchesbf	tracker_2d_noloss_func.py	/^            matchesbf = bff.knnMatch(des1,olddes1,k=1)$/;"	v
+matchesknn	tracker_2D.py	/^        matchesknn = bf.knnMatch(des1,olddes1,k=2)$/;"	v
+matchesknn	tracker_2D_I_wont_get_lost.py	/^            matchesknn = bf.knnMatch(des1,olddes1,k=2)$/;"	v
+matchesknn	tracker_2d_noloss_func.py	/^            matchesknn = bf.knnMatch(des1,olddes1,k=2)$/;"	v
+maxx	tracker_2D_I_wont_get_lost.py	/^        maxx=val[0]$/;"	v
+maxx	tracker_2D_I_wont_get_lost.py	/^maxx=-1000$/;"	v
+maxx	tracker_2d_noloss_func.py	/^        maxx=val[0]$/;"	v
+maxx	tracker_2d_noloss_func.py	/^maxx=-1000$/;"	v
+maxy	tracker_2D_I_wont_get_lost.py	/^        maxy=val[1]$/;"	v
+maxy	tracker_2D_I_wont_get_lost.py	/^maxy=-1000$/;"	v
+maxy	tracker_2d_noloss_func.py	/^        maxy=val[1]$/;"	v
+maxy	tracker_2d_noloss_func.py	/^maxy=-1000$/;"	v
+minbff	gui.py	/^minbff=0$/;"	v
+minbff	gui_new.py	/^minbff=0$/;"	v
+minbff	tracker_2D_I_wont_get_lost.py	/^minbff=0$/;"	v
+minbff	tracker_2d_noloss_func.py	/^minbff=0$/;"	v
+minknn	gui.py	/^minknn=0$/;"	v
+minknn	gui_new.py	/^minknn=0$/;"	v
+minknn	tracker_2D_I_wont_get_lost.py	/^minknn=0$/;"	v
+minknn	tracker_2d_noloss_func.py	/^minknn=0$/;"	v
+mypts1	tracker_2D.py	/^mypts1 = np.array(positionsbfRigid)$/;"	v
+mypts1	tracker_2D_I_wont_get_lost.py	/^mypts1 = np.array(positionsbfRigid)$/;"	v
+mypts1	tracker_2d_noloss_func.py	/^mypts1 = np.array(positionsbfRigid)$/;"	v
+mypts2	tracker_2D.py	/^mypts2 = np.array(positionsknnRigid)$/;"	v
+mypts2	tracker_2D_I_wont_get_lost.py	/^mypts2 = np.array(positionsknnRigid)$/;"	v
+mypts2	tracker_2d_noloss_func.py	/^mypts2 = np.array(positionsknnRigid)$/;"	v
+myyaw1	tracker_2D_I_wont_get_lost.py	/^myyaw1 = np.array(yawbf)$/;"	v
+myyaw1	tracker_2d_noloss_func.py	/^myyaw1 = np.array(yawbf)$/;"	v
+myyaw2	tracker_2D_I_wont_get_lost.py	/^myyaw2 = np.array(yawknn)$/;"	v
+myyaw2	tracker_2d_noloss_func.py	/^myyaw2 = np.array(yawknn)$/;"	v
+np	calibration.py	/^import numpy as np$/;"	I
+np	draw_matches.py	/^import numpy as np$/;"	I
+np	gui.py	/^import numpy as np$/;"	I
+np	gui_new.py	/^import numpy as np$/;"	I
+np	tracker_2D.py	/^import numpy as np$/;"	I
+np	tracker_2D_I_wont_get_lost.py	/^import numpy as np$/;"	I
+np	tracker_2d_noloss_func.py	/^import numpy as np$/;"	I
+num_frames	tracker_2D.py	/^num_frames = 3000#int(webcam.get(7))$/;"	v
+oldframe	tracker_2D.py	/^    oldframe = frame$/;"	v
+oldframe	tracker_2D_I_wont_get_lost.py	/^        oldframe = frame$/;"	v
+oldframe	tracker_2D_I_wont_get_lost.py	/^    oldframe = cal.undistFrame(oldframe, mtx, dist) $/;"	v
+oldframe	tracker_2D_I_wont_get_lost.py	/^    oldframe = frame$/;"	v
+oldframe	tracker_2d_noloss_func.py	/^        oldframe = frame$/;"	v
+oldframe	tracker_2d_noloss_func.py	/^    oldframe = cal.undistFrame(oldframe, mtx, dist) $/;"	v
+oldframe	tracker_2d_noloss_func.py	/^    oldframe = frame$/;"	v
+oldgray	tracker_2D.py	/^    oldgray = cv2.cvtColor(oldframe, cv2.COLOR_BGR2GRAY)$/;"	v
+oldgray	tracker_2D_I_wont_get_lost.py	/^    oldgray = cv2.cvtColor(oldframe, cv2.COLOR_BGR2GRAY)$/;"	v
+oldgray	tracker_2d_noloss_func.py	/^    oldgray = cv2.cvtColor(oldframe, cv2.COLOR_BGR2GRAY)$/;"	v
+oldp	tracker_2D.py	/^        oldp = []$/;"	v
+oldp	tracker_2D.py	/^        oldp = np.float32(oldp)$/;"	v
+oldp	tracker_2D_I_wont_get_lost.py	/^            oldp = []$/;"	v
+oldp	tracker_2D_I_wont_get_lost.py	/^            oldp = np.float32(oldp)$/;"	v
+oldp	tracker_2d_noloss_func.py	/^            oldp = []$/;"	v
+oldp	tracker_2d_noloss_func.py	/^            oldp = np.float32(oldp)$/;"	v
+oldpbf	tracker_2D.py	/^        oldpbf = []$/;"	v
+oldpbf	tracker_2D.py	/^        oldpbf = np.float32(oldpbf)$/;"	v
+oldpbf	tracker_2D_I_wont_get_lost.py	/^            oldpbf = []$/;"	v
+oldpbf	tracker_2D_I_wont_get_lost.py	/^            oldpbf = np.float32(oldpbf)$/;"	v
+oldpbf	tracker_2d_noloss_func.py	/^            oldpbf = []$/;"	v
+oldpbf	tracker_2d_noloss_func.py	/^            oldpbf = np.float32(oldpbf)$/;"	v
+orb	tracker_2D.py	/^orb = cv2.ORB_create()$/;"	v
+orb	tracker_2D_I_wont_get_lost.py	/^orb = cv2.ORB_create()$/;"	v
+orb	tracker_2d_noloss_func.py	/^orb = cv2.ORB_create()$/;"	v
+out	tracker_2D.py	/^    out = cv2.VideoWriter('fast.avi',fourcc, fmps, (width,height))$/;"	v
+out	tracker_2D_I_wont_get_lost.py	/^    out = cv2.VideoWriter('fast.avi',fourcc, fmps, (width,height))$/;"	v
+out	tracker_2d_noloss_func.py	/^    out = cv2.VideoWriter('fast.avi',fourcc, fmps, (width,height))$/;"	v
+p	tracker_2D.py	/^        p = []$/;"	v
+p	tracker_2D.py	/^        p = np.float32(p)$/;"	v
+p	tracker_2D_I_wont_get_lost.py	/^            p = []$/;"	v
+p	tracker_2D_I_wont_get_lost.py	/^            p = np.float32(p)$/;"	v
+p	tracker_2d_noloss_func.py	/^            p = []$/;"	v
+p	tracker_2d_noloss_func.py	/^            p = np.float32(p)$/;"	v
+pbf	tracker_2D.py	/^        pbf = []$/;"	v
+pbf	tracker_2D.py	/^        pbf = np.float32(pbf)$/;"	v
+pbf	tracker_2D_I_wont_get_lost.py	/^            pbf = []$/;"	v
+pbf	tracker_2D_I_wont_get_lost.py	/^            pbf = np.float32(pbf)$/;"	v
+pbf	tracker_2d_noloss_func.py	/^            pbf = []$/;"	v
+pbf	tracker_2d_noloss_func.py	/^            pbf = np.float32(pbf)$/;"	v
+posaccuracy	gui.py	/^posaccuracy = 0.2 $/;"	v
+posaccuracy	gui_new.py	/^posaccuracy = 0.2$/;"	v
+posaccuracy	tracker_2D_I_wont_get_lost.py	/^posaccuracy = 0.2 #To deactivate accuracy make it -1$/;"	v
+posaccuracy	tracker_2d_noloss_func.py	/^posaccuracy = 0.2 #To deactivate accuracy make it -1$/;"	v
+positionsbfDis	tracker_2D.py	/^    positionsbfDis = [[width\/2,height\/2]]*num_frames$/;"	v
+positionsbfRigid	tracker_2D.py	/^    positionsbfRigid = [[width\/2,height\/2]]*num_frames$/;"	v
+positionsbfRigid	tracker_2D_I_wont_get_lost.py	/^    positionsbfRigid = [[width\/2,height\/2]]$/;"	v
+positionsbfRigid	tracker_2d_noloss_func.py	/^    positionsbfRigid = [[width\/2,height\/2]]$/;"	v
+positionsknnDis	tracker_2D.py	/^    positionsknnDis = [[width\/2,height\/2]]*num_frames$/;"	v
+positionsknnRigid	tracker_2D.py	/^    positionsknnRigid = [[width\/2,height\/2]]*num_frames$/;"	v
+positionsknnRigid	tracker_2D_I_wont_get_lost.py	/^    positionsknnRigid = [[width\/2,height\/2]]$/;"	v
+positionsknnRigid	tracker_2d_noloss_func.py	/^    positionsknnRigid = [[width\/2,height\/2]]$/;"	v
+pts	tracker_2D.py	/^        pts = np.array(positionsbfDis, np.int32)$/;"	v
+pts1	tracker_2D.py	/^        pts1 = np.array(positionsknnDis, np.int32)$/;"	v
+pts2	tracker_2D.py	/^        pts2 = np.array(positionsbfRigid, np.int32)$/;"	v
+pts2	tracker_2D_I_wont_get_lost.py	/^            pts2 = np.array(positionsbfRigid, np.int32)$/;"	v
+pts2	tracker_2d_noloss_func.py	/^            pts2 = np.array(positionsbfRigid, np.int32)$/;"	v
+pts3	tracker_2D.py	/^        pts3 = np.array(positionsknnRigid, np.int32)$/;"	v
+pts3	tracker_2D_I_wont_get_lost.py	/^            pts3 = np.array(positionsknnRigid, np.int32)$/;"	v
+pts3	tracker_2d_noloss_func.py	/^            pts3 = np.array(positionsknnRigid, np.int32)$/;"	v
+rigid	tracker_2D.py	/^            rigid = cv2.estimateRigidTransform(p, oldp, fullAffine=False)$/;"	v
+rigid	tracker_2D.py	/^            rigid = cv2.estimateRigidTransform(pbf, oldpbf, fullAffine=False)$/;"	v
+rigid	tracker_2D_I_wont_get_lost.py	/^                rigid = cv2.estimateRigidTransform(p, oldp, fullAffine=False)$/;"	v
+rigid	tracker_2D_I_wont_get_lost.py	/^                rigid = cv2.estimateRigidTransform(pbf, oldpbf, fullAffine=False)$/;"	v
+rigid	tracker_2d_noloss_func.py	/^                rigid = cv2.estimateRigidTransform(p, oldp, fullAffine=False)$/;"	v
+rigid	tracker_2d_noloss_func.py	/^                rigid = cv2.estimateRigidTransform(pbf, oldpbf, fullAffine=False)$/;"	v
+skipframe	gui.py	/^skipframe=0$/;"	v
+skipframe	gui_new.py	/^skipframe=0$/;"	v
+skipframe	tracker_2D_I_wont_get_lost.py	/^                    skipframe = 1$/;"	v
+skipframe	tracker_2D_I_wont_get_lost.py	/^                skipframe = 1$/;"	v
+skipframe	tracker_2D_I_wont_get_lost.py	/^            skipframe=1$/;"	v
+skipframe	tracker_2D_I_wont_get_lost.py	/^        skipframe=0$/;"	v
+skipframe	tracker_2D_I_wont_get_lost.py	/^skipframe=0$/;"	v
+skipframe	tracker_2d_noloss_func.py	/^                    skipframe = 1$/;"	v
+skipframe	tracker_2d_noloss_func.py	/^                skipframe = 1$/;"	v
+skipframe	tracker_2d_noloss_func.py	/^            skipframe=1$/;"	v
+skipframe	tracker_2d_noloss_func.py	/^        skipframe=0$/;"	v
+skipframe	tracker_2d_noloss_func.py	/^skipframe=0$/;"	v
+t0	tracker_2D.py	/^    t0 = t1;$/;"	v
+t0	tracker_2D.py	/^    t0 = time.time()$/;"	v
+t0	tracker_2D_I_wont_get_lost.py	/^        t0 = t1;$/;"	v
+t0	tracker_2D_I_wont_get_lost.py	/^    t0 = t1;$/;"	v
+t0	tracker_2D_I_wont_get_lost.py	/^    t0 = time.time()$/;"	v
+t0	tracker_2d_noloss_func.py	/^        t0 = t1;$/;"	v
+t0	tracker_2d_noloss_func.py	/^    t0 = t1;$/;"	v
+t0	tracker_2d_noloss_func.py	/^    t0 = time.time()$/;"	v
+t1	tracker_2D.py	/^    t1 = time.time()$/;"	v
+t1	tracker_2D_I_wont_get_lost.py	/^        t1 = time.time()$/;"	v
+t1	tracker_2D_I_wont_get_lost.py	/^    t1 = time.time()$/;"	v
+t1	tracker_2d_noloss_func.py	/^        t1 = time.time()$/;"	v
+t1	tracker_2d_noloss_func.py	/^    t1 = time.time()$/;"	v
+undistFrame	calibration.py	/^def undistFrame(img, mtx, dist):$/;"	f
+webcam	tracker_2D.py	/^webcam = cv2.VideoCapture(0)#cv2.VideoCapture('3.avi')$/;"	v
+webcam	tracker_2D_I_wont_get_lost.py	/^webcam = cv2.VideoCapture(0)#to load a file change to:cv2.VideoCapture('file.avi')$/;"	v
+webcam	tracker_2d_noloss_func.py	/^webcam = cv2.VideoCapture(camNumber)#to load a file change to:cv2.VideoCapture('file.avi')$/;"	v
+width	tracker_2D.py	/^    width = int(webcam.get(3)) $/;"	v
+width	tracker_2D_I_wont_get_lost.py	/^    width = int(webcam.get(3)) $/;"	v
+width	tracker_2d_noloss_func.py	/^    width = int(webcam.get(3)) $/;"	v
+yaw	tracker_2D.py	/^    yaw = [0]*num_frames$/;"	v
+yawbf	tracker_2D_I_wont_get_lost.py	/^    yawbf = [0]$/;"	v
+yawbf	tracker_2d_noloss_func.py	/^    yawbf = [0]$/;"	v
+yawknn	tracker_2D_I_wont_get_lost.py	/^    yawknn = [0]$/;"	v
+yawknn	tracker_2d_noloss_func.py	/^    yawknn = [0]$/;"	v

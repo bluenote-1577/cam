@@ -1,0 +1,168 @@
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+
+(gui_new.py:13970): Gtk-WARNING **: GtkImage 0x7f8de800ba50: widget tried to gtk_widget_get_height inside  GtkWidget     ::get_height implementation. Should just invoke GTK_WIDGET_GET_CLASS(widget)->get_height directly rather than using gtk_widget_get_height
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 5 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd3
+Traceback (most recent call last):
+  File "gui_new.py", line 112, in OnButton
+    plusDir = sys.argv[1]
+IndexError: list index out of range
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 10 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 5 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 5 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 8 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 5 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+Traceback (most recent call last):
+  File "gui_new.py", line 112, in OnButton
+    plusDir = sys.argv[1]
+IndexError: list index out of range
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd0
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd6
+Traceback (most recent call last):
+  File "gui_new.py", line 112, in OnButton
+    plusDir = sys.argv[1]
+IndexError: list index out of range
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 7 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd3
+Traceback (most recent call last):
+  File "gui_new.py", line 112, in OnButton
+    plusDir = sys.argv[1]
+IndexError: list index out of range
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 5 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd7
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd1
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd6
+Corrupt JPEG data: 6 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd3
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd2
+Corrupt JPEG data: 2 extraneous bytes before marker 0xd5
+Corrupt JPEG data: 3 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 4 extraneous bytes before marker 0xd4
+Corrupt JPEG data: 1 extraneous bytes before marker 0xd4
